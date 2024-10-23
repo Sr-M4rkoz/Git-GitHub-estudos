@@ -146,3 +146,5 @@ Participe de comunidades: Interaja com outros programadores, tire dúvidas e apr
 Trabalhe em projetos pessoais: Crie seus próprios projetos para aplicar o que você aprendeu.
 Busque por cursos e tutoriais: Existem diversas opções online e presenciais para aprender a programar.
 Não tenha medo de errar: Errar faz parte do processo de aprendizado.
+
+.
