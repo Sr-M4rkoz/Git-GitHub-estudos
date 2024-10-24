@@ -23,5 +23,5 @@ git branch -M main #Defina como sua "linha do tempo" principal.
 
 git remote add origin [link_do_repositorio] (https://github.com/Sr-M4rkoz/projeto) #Defina a origem para onde seu projeto vai ser mandado. (seu repositorio no Github)
 
-git push -u origin main #Envie o projeto para o repositorio.
+git push -u origin main #Envie o projeto para o repositorio. 
 ```
